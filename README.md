@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Isoqbek
 - 👀 I’m interested in technics
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on smth
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning .Net deeply
+
+
 
 <!---
 Isoqbek/Isoqbek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
