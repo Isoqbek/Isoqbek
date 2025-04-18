@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Isoqbek
-- 👀 I’m interested in technics
-- 🌱 I’m currently learning .Net deeply
+- 👀 I’m interested in techniques
+- 🌱 I’m a .Net developer with over 2+ experiences
 
 
 
